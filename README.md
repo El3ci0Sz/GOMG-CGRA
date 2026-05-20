@@ -33,7 +33,7 @@ The tool provides 3 distinct generation engines, tailored for different mapping 
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/SeuUsuario/GOMG-CGRA.git](https://github.com/SeuUsuario/GOMG-CGRA.git)
+git clone https://github.com/El3ci0Sz/GOMG-CGRA.git
 cd GOMG-CGRA
 ```
 
